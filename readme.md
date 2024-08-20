@@ -1,6 +1,6 @@
 ## Olá, eu sou João Victor Medina Pinto!
 
-Sou João Victor Medina Pinto, estudante de Análise e Desenvolvimento de Sistemas na Uniasselvi e Engenharia de Software na DNC. Apaixonado por tecnologia, estou em busca de oportunidades para aplicar meus conhecimentos em projetos inovadores de desenvolvimento de software, com foco em full stack e tecnologias web. Estou sempre em aprendizado contínuo, aprimorando minhas habilidades em frameworks modernos e explorando novas ferramentas para criar soluções eficazes. Além de projetos pessoais, participo de atividades educacionais e eventos na comunidade de tecnologia.
+Sou João Victor Medina Pinto, Analista e Desenvolvedor de Sistemas e Engenheiro de Software. Apaixonado por tecnologia, estou em busca de oportunidades para aplicar meus conhecimentos em projetos inovadores de desenvolvimento de software, com foco em full stack e tecnologias web. Estou sempre em aprendizado contínuo, aprimorando minhas habilidades em frameworks modernos e explorando novas ferramentas para criar soluções eficazes. Além de projetos pessoais, participo de atividades educacionais e eventos na comunidade de tecnologia.
 
 ### Tecnologias e Linguagens
 
